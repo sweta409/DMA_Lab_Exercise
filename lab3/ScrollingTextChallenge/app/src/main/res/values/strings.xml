@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Scrolling TextChallenge</string>
+    <string name="article_title">Anatomy and Physiology</string>
+    <string name="article_subtitle">Anatomy and Physiology: Summary</string>
+    <string name="article_text">Anatomy and Physiology is a dynamic textbook for the two-semester human anatomy and physiology course for life science and allied health majors. The book is organized by body system and covers standard scope and sequence requirements. Its lucid text, strategically constructed art, career features, and links to external learning tools address the critical teaching and learning challenges in the course. The web-based version of <i>Anatomy and Physiology</i> also features links to surgical videos, histology, and interactive diagrams.
+        For more information, see the Anatomy and Physiology at www.openstax.org.
+\n\n
+Anatomy and physiology are two of the most basic terms and areas of study in the life sciences. Anatomy refers to the internal and external structures of the body and their physical relationships, whereas physiology refers to the study of the functions of those structures.
+\n\n
+<b>Senior Contributing:</b>
+\n\n
+<b><i>Authors</i></b> - J. Gordon Betts, Tyler Junior College
+Kelly A. Young, California State University, Long Beach
+James A. Wise, Hampton University
+Eddie Johnson, Central Oregon Community College
+Brandon Poe, Springfield Technical Community College
+Dean H. Kruse, Portland Community College
+Oksana Korol, Aims Community College
+Jody E. Johnson, Arapahoe Community College
+Mark Womble, Youngstown State University
+Peter DeSaix, University of North Carolina at Chapel Hill
+\n\n
+<b><i>Contributing Authors</i></b>  — Kelly A. Young, California State University, Long Beach
+James A. Wise, Hampton University
+Eddie Johnson, Central Oregon Community College
+Brandon Poe, Springfield Technical Community College
+Dean H. Kruse, Portland Community College
+Oksana Korol, Aims Community College
+Jody E. Johnson, Arapahoe Community College
+Mark Womble, Youngstown State University
+Peter DeSaix, University of North Carolina at Chapel Hill
+        \n\n
+<b><i>Errata</i></b> — This book is scheduled for a new edition. Errata reports will be evaluated for implementation in the new edition. Click the Sign up to learn more link on your books page to be notified of the upcoming edition and other news.
+</string>
+    <string name="add_comment">Add Comment</string>
+</resources>
